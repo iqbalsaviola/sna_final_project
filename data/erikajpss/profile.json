@@ -1,0 +1,106 @@
+{
+    "data": {
+        "user": {
+            "ai_agent_type": null,
+            "biography": "",
+            "bio_links": [],
+            "fb_profile_biolink": null,
+            "biography_with_entities": {
+                "raw_text": "",
+                "entities": []
+            },
+            "blocked_by_viewer": false,
+            "restricted_by_viewer": false,
+            "country_block": false,
+            "eimu_id": "114727276588024",
+            "external_url": null,
+            "external_url_linkshimmed": null,
+            "edge_followed_by": {
+                "count": 774
+            },
+            "fbid": "17841402546836299",
+            "followed_by_viewer": true,
+            "edge_follow": {
+                "count": 695
+            },
+            "follows_viewer": true,
+            "full_name": "erika",
+            "group_metadata": null,
+            "has_ar_effects": false,
+            "has_clips": false,
+            "has_guides": false,
+            "has_chaining": true,
+            "has_channel": false,
+            "has_blocked_viewer": false,
+            "highlight_reel_count": 3,
+            "has_requested_viewer": false,
+            "hide_like_and_view_counts": false,
+            "id": "2530396894",
+            "is_business_account": false,
+            "is_professional_account": false,
+            "is_supervision_enabled": false,
+            "is_guardian_of_viewer": false,
+            "is_supervised_by_viewer": false,
+            "is_supervised_user": false,
+            "is_embeds_disabled": false,
+            "is_joined_recently": false,
+            "guardian_id": null,
+            "business_address_json": null,
+            "business_contact_method": "UNKNOWN",
+            "business_email": null,
+            "business_phone_number": null,
+            "business_category_name": null,
+            "overall_category_name": null,
+            "category_enum": null,
+            "category_name": null,
+            "is_private": true,
+            "is_verified": false,
+            "is_verified_by_mv4b": false,
+            "is_regulated_c18": false,
+            "edge_mutual_followed_by": {
+                "count": 9,
+                "edges": [
+                    {
+                        "node": {
+                            "username": "zerlinana"
+                        }
+                    },
+                    {
+                        "node": {
+                            "username": "nephrxte"
+                        }
+                    },
+                    {
+                        "node": {
+                            "username": "_haritzah"
+                        }
+                    }
+                ]
+            },
+            "pinned_channels_list_count": 0,
+            "profile_pic_url": "https://instagram.fcgk40-1.fna.fbcdn.net/v/t51.2885-19/377808829_628851979103054_1718611627118685745_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=instagram.fcgk40-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_ohc=0btM5U6lDGgAX99195E\u0026edm=AOQ1c0wBAAAA\u0026ccb=7-5\u0026oh=00_AfCasLdgNq7hdgtDfE--ZnVjRMoMVkoZQ0YQZ2M4ucMi9w\u0026oe=66108F5A\u0026_nc_sid=8b3546",
+            "profile_pic_url_hd": "https://instagram.fcgk40-1.fna.fbcdn.net/v/t51.2885-19/377808829_628851979103054_1718611627118685745_n.jpg?stp=dst-jpg_s320x320\u0026_nc_ht=instagram.fcgk40-1.fna.fbcdn.net\u0026_nc_cat=102\u0026_nc_ohc=0btM5U6lDGgAX99195E\u0026edm=AOQ1c0wBAAAA\u0026ccb=7-5\u0026oh=00_AfAsxgVvF14hNgF5hYZ0QMUsjjV501PRDTKPOD7MFU-BPw\u0026oe=66108F5A\u0026_nc_sid=8b3546",
+            "requested_by_viewer": false,
+            "should_show_category": false,
+            "should_show_public_contacts": false,
+            "show_account_transparency_details": true,
+            "transparency_label": null,
+            "transparency_product": null,
+            "username": "erikajpss",
+            "connected_fb_page": null,
+            "pronouns": [
+                "she",
+                "her"
+            ],
+            "edge_owner_to_timeline_media": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            }
+        }
+    },
+    "status": "ok"
+}

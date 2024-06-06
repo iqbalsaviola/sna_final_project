@@ -1,0 +1,103 @@
+{
+    "data": {
+        "user": {
+            "ai_agent_type": null,
+            "biography": "Rich people (soon)",
+            "bio_links": [],
+            "fb_profile_biolink": null,
+            "biography_with_entities": {
+                "raw_text": "Rich people (soon)",
+                "entities": []
+            },
+            "blocked_by_viewer": false,
+            "restricted_by_viewer": false,
+            "country_block": false,
+            "eimu_id": "17842503524352776",
+            "external_url": null,
+            "external_url_linkshimmed": null,
+            "edge_followed_by": {
+                "count": 500
+            },
+            "fbid": "17841440583266828",
+            "followed_by_viewer": true,
+            "edge_follow": {
+                "count": 472
+            },
+            "follows_viewer": true,
+            "full_name": "Asfa Amalia",
+            "group_metadata": null,
+            "has_ar_effects": false,
+            "has_clips": false,
+            "has_guides": false,
+            "has_chaining": true,
+            "has_channel": false,
+            "has_blocked_viewer": false,
+            "highlight_reel_count": 0,
+            "has_requested_viewer": false,
+            "hide_like_and_view_counts": false,
+            "id": "40694624775",
+            "is_business_account": false,
+            "is_professional_account": true,
+            "is_supervision_enabled": false,
+            "is_guardian_of_viewer": false,
+            "is_supervised_by_viewer": false,
+            "is_supervised_user": false,
+            "is_embeds_disabled": false,
+            "is_joined_recently": false,
+            "guardian_id": null,
+            "business_address_json": null,
+            "business_contact_method": "UNKNOWN",
+            "business_email": null,
+            "business_phone_number": null,
+            "business_category_name": null,
+            "overall_category_name": null,
+            "category_enum": null,
+            "category_name": "Organic Grocery Store",
+            "is_private": false,
+            "is_verified": false,
+            "is_verified_by_mv4b": false,
+            "is_regulated_c18": false,
+            "edge_mutual_followed_by": {
+                "count": 18,
+                "edges": [
+                    {
+                        "node": {
+                            "username": "kurniadiwijaya_"
+                        }
+                    },
+                    {
+                        "node": {
+                            "username": "hassanrizkyy"
+                        }
+                    },
+                    {
+                        "node": {
+                            "username": "ikhsanudinmuh"
+                        }
+                    }
+                ]
+            },
+            "pinned_channels_list_count": 0,
+            "profile_pic_url": "https://instagram.fcgk40-1.fna.fbcdn.net/v/t51.2885-19/419257049_7469935466379601_6022889811354537314_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=instagram.fcgk40-1.fna.fbcdn.net\u0026_nc_cat=101\u0026_nc_ohc=63KfAIFJ-foAX8Rz24S\u0026edm=AOQ1c0wBAAAA\u0026ccb=7-5\u0026oh=00_AfAetRqUBsoHsWTtzVVCtPJLwRsokErM3oacJ8P2fhdGRw\u0026oe=6610991B\u0026_nc_sid=8b3546",
+            "profile_pic_url_hd": "https://instagram.fcgk40-1.fna.fbcdn.net/v/t51.2885-19/419257049_7469935466379601_6022889811354537314_n.jpg?stp=dst-jpg_s320x320\u0026_nc_ht=instagram.fcgk40-1.fna.fbcdn.net\u0026_nc_cat=101\u0026_nc_ohc=63KfAIFJ-foAX8Rz24S\u0026edm=AOQ1c0wBAAAA\u0026ccb=7-5\u0026oh=00_AfCdFhCF9YNi5EKNcuSLP57fjr_JXTu6tSl5IyfD68dFqA\u0026oe=6610991B\u0026_nc_sid=8b3546",
+            "requested_by_viewer": false,
+            "should_show_category": true,
+            "should_show_public_contacts": false,
+            "show_account_transparency_details": true,
+            "transparency_label": null,
+            "transparency_product": null,
+            "username": "asfa_amd",
+            "connected_fb_page": null,
+            "pronouns": [],
+            "edge_owner_to_timeline_media": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            }
+        }
+    },
+    "status": "ok"
+}

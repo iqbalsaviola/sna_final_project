@@ -1,0 +1,103 @@
+{
+    "data": {
+        "user": {
+            "ai_agent_type": null,
+            "biography": "East Java, Indonesia",
+            "bio_links": [],
+            "fb_profile_biolink": null,
+            "biography_with_entities": {
+                "raw_text": "East Java, Indonesia",
+                "entities": []
+            },
+            "blocked_by_viewer": false,
+            "restricted_by_viewer": false,
+            "country_block": false,
+            "eimu_id": "112651220130023",
+            "external_url": null,
+            "external_url_linkshimmed": null,
+            "edge_followed_by": {
+                "count": 426
+            },
+            "fbid": "17841403342916766",
+            "followed_by_viewer": true,
+            "edge_follow": {
+                "count": 411
+            },
+            "follows_viewer": true,
+            "full_name": "Sltn",
+            "group_metadata": null,
+            "has_ar_effects": false,
+            "has_clips": false,
+            "has_guides": false,
+            "has_chaining": true,
+            "has_channel": false,
+            "has_blocked_viewer": false,
+            "highlight_reel_count": 5,
+            "has_requested_viewer": false,
+            "hide_like_and_view_counts": false,
+            "id": "3254135430",
+            "is_business_account": false,
+            "is_professional_account": false,
+            "is_supervision_enabled": false,
+            "is_guardian_of_viewer": false,
+            "is_supervised_by_viewer": false,
+            "is_supervised_user": false,
+            "is_embeds_disabled": false,
+            "is_joined_recently": false,
+            "guardian_id": null,
+            "business_address_json": null,
+            "business_contact_method": "UNKNOWN",
+            "business_email": null,
+            "business_phone_number": null,
+            "business_category_name": null,
+            "overall_category_name": null,
+            "category_enum": null,
+            "category_name": null,
+            "is_private": true,
+            "is_verified": false,
+            "is_verified_by_mv4b": false,
+            "is_regulated_c18": false,
+            "edge_mutual_followed_by": {
+                "count": 19,
+                "edges": [
+                    {
+                        "node": {
+                            "username": "m_naufel_r"
+                        }
+                    },
+                    {
+                        "node": {
+                            "username": "_biimabimm"
+                        }
+                    },
+                    {
+                        "node": {
+                            "username": "permanadaffa"
+                        }
+                    }
+                ]
+            },
+            "pinned_channels_list_count": 0,
+            "profile_pic_url": "https://instagram.fcgk40-1.fna.fbcdn.net/v/t51.2885-19/298602659_1089770261963721_5657728394693414132_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=instagram.fcgk40-1.fna.fbcdn.net\u0026_nc_cat=109\u0026_nc_ohc=zUNJl1Nqg2sAX9M8jnc\u0026edm=AOQ1c0wBAAAA\u0026ccb=7-5\u0026oh=00_AfBAPeUu4k0UxZhxDCMNDCaqRe8n8Jxofweub0OIdoISew\u0026oe=6610BEA4\u0026_nc_sid=8b3546",
+            "profile_pic_url_hd": "https://instagram.fcgk40-1.fna.fbcdn.net/v/t51.2885-19/298602659_1089770261963721_5657728394693414132_n.jpg?stp=dst-jpg_s320x320\u0026_nc_ht=instagram.fcgk40-1.fna.fbcdn.net\u0026_nc_cat=109\u0026_nc_ohc=zUNJl1Nqg2sAX9M8jnc\u0026edm=AOQ1c0wBAAAA\u0026ccb=7-5\u0026oh=00_AfCcKt8b_SW6JmoHKO2iZoT3a2CNiKQE_nvZMQwBOdvGTw\u0026oe=6610BEA4\u0026_nc_sid=8b3546",
+            "requested_by_viewer": false,
+            "should_show_category": false,
+            "should_show_public_contacts": false,
+            "show_account_transparency_details": true,
+            "transparency_label": null,
+            "transparency_product": null,
+            "username": "m_sultanha",
+            "connected_fb_page": null,
+            "pronouns": [],
+            "edge_owner_to_timeline_media": {
+                "count": 6,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": ""
+                },
+                "edges": []
+            }
+        }
+    },
+    "status": "ok"
+}

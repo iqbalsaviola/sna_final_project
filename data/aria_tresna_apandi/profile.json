@@ -1,0 +1,100 @@
+{
+    "data": {
+        "user": {
+            "ai_agent_type": null,
+            "biography": "サムライが好きです",
+            "bio_links": [
+                {
+                    "title": "linktree",
+                    "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fariamaru\u0026e=AT3I-OmldnoOwg9a2Le6vtpMBdwnoGGYlwy9LL97sBmpkYE-FlMmPMCmxf7SZ0U9JBon4-Qk0bTZUorFz7beaiEFdPFOsrN0whI3tg",
+                    "url": "https://linktr.ee/ariamaru",
+                    "link_type": "external"
+                }
+            ],
+            "fb_profile_biolink": null,
+            "biography_with_entities": {
+                "raw_text": "サムライが好きです",
+                "entities": []
+            },
+            "blocked_by_viewer": false,
+            "restricted_by_viewer": false,
+            "country_block": false,
+            "eimu_id": "102715904462107",
+            "external_url": "https://linktr.ee/ariamaru",
+            "external_url_linkshimmed": "https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fariamaru\u0026e=AT18JJmsrtGqM4z5JFzdA2D3d4Cfmx5nTrX_bc8SSwkJS5Lr7kdKAwbuB7D0qkqzBCmRxkv-rUOlU9vu00M0Ivkg1zI_wNxQtUwGfQ",
+            "edge_followed_by": {
+                "count": 1187
+            },
+            "fbid": "17841403160866713",
+            "followed_by_viewer": true,
+            "edge_follow": {
+                "count": 642
+            },
+            "follows_viewer": false,
+            "full_name": "Daeng rompang",
+            "group_metadata": null,
+            "has_ar_effects": false,
+            "has_clips": true,
+            "has_guides": false,
+            "has_chaining": true,
+            "has_channel": false,
+            "has_blocked_viewer": false,
+            "highlight_reel_count": 10,
+            "has_requested_viewer": false,
+            "hide_like_and_view_counts": false,
+            "id": "3173705362",
+            "is_business_account": true,
+            "is_professional_account": true,
+            "is_supervision_enabled": false,
+            "is_guardian_of_viewer": false,
+            "is_supervised_by_viewer": false,
+            "is_supervised_user": false,
+            "is_embeds_disabled": false,
+            "is_joined_recently": false,
+            "guardian_id": null,
+            "business_address_json": null,
+            "business_contact_method": "UNKNOWN",
+            "business_email": null,
+            "business_phone_number": null,
+            "business_category_name": "None",
+            "overall_category_name": null,
+            "category_enum": "TOPIC_PHOTOGRAPHER",
+            "category_name": "Photographer",
+            "is_private": false,
+            "is_verified": false,
+            "is_verified_by_mv4b": false,
+            "is_regulated_c18": false,
+            "edge_mutual_followed_by": {
+                "count": 1,
+                "edges": [
+                    {
+                        "node": {
+                            "username": "_relfarel_"
+                        }
+                    }
+                ]
+            },
+            "pinned_channels_list_count": 0,
+            "profile_pic_url": "https://instagram.fcgk40-1.fna.fbcdn.net/v/t51.2885-19/429147313_913972056900668_694609814252454698_n.jpg?stp=dst-jpg_s150x150\u0026_nc_ht=instagram.fcgk40-1.fna.fbcdn.net\u0026_nc_cat=108\u0026_nc_ohc=lKhCCPPNbv4AX_n7rQS\u0026edm=AOQ1c0wBAAAA\u0026ccb=7-5\u0026oh=00_AfDN1oDKKs7A_o1nT6UJ98GZiz6pgTgL139Mpyqj91f3wA\u0026oe=6610AA56\u0026_nc_sid=8b3546",
+            "profile_pic_url_hd": "https://instagram.fcgk40-1.fna.fbcdn.net/v/t51.2885-19/429147313_913972056900668_694609814252454698_n.jpg?stp=dst-jpg_s320x320\u0026_nc_ht=instagram.fcgk40-1.fna.fbcdn.net\u0026_nc_cat=108\u0026_nc_ohc=lKhCCPPNbv4AX_n7rQS\u0026edm=AOQ1c0wBAAAA\u0026ccb=7-5\u0026oh=00_AfD1UhQfoUop6diutXe7jkNuiXfbFG26dFRJkjwgQRPHzg\u0026oe=6610AA56\u0026_nc_sid=8b3546",
+            "requested_by_viewer": false,
+            "should_show_category": true,
+            "should_show_public_contacts": true,
+            "show_account_transparency_details": true,
+            "transparency_label": null,
+            "transparency_product": null,
+            "username": "aria_tresna_apandi",
+            "connected_fb_page": null,
+            "pronouns": [],
+            "edge_owner_to_timeline_media": {
+                "count": 131,
+                "page_info": {
+                    "has_next_page": true,
+                    "end_cursor": ""
+                },
+                "edges": []
+            }
+        }
+    },
+    "status": "ok"
+}
